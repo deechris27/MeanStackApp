@@ -1,3 +1,7 @@
+# Create a sample database in MongoDB
+
+Before using this project, create a database with a collection and add some content before running the app, do change the name of the database and the collection in the api.js file.
+
 # MeanA
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
